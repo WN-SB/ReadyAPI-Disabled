@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:testSuite xmlns:con="http://eviware.com/soapui/config" id="d4b194ea-9025-4d1a-bf69-3e4acd860e62" name="Sample REST Test Suite">
-  <con:settings id="07e4cc00-3240-4c47-a630-b9dd8bf052eb">
+  <con:settings id="3877e352-c89f-443e-8b5d-24742bd28f55">
     <con:setting id="d4b194ea-9025-4d1a-bf69-3e4acd860e62fileName">Sample-REST-Test-Suite</con:setting>
   </con:settings>
   <con:savedRecentRuns>1</con:savedRecentRuns>
